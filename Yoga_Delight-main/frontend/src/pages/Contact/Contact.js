@@ -109,7 +109,7 @@ export default function Contact() {
           <div className="social-links">
             <a href="https://linkedin.com/in/sanjeev-prasad-41146025b" className="fab fa-linkedin-in"></a>
             <a href="https://github.com/sanjeev22004" className="fab fa-github"></a>
-            <a href="mailto:sanjeevprasad2004@gmail.com" className="fa fa-envelope"></a>
+            <a href="mailto:kp6273275@gmail.com" className="fa fa-envelope"></a>
           </div>
         </div>
       </section>
